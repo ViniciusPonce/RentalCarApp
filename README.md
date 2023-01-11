@@ -1,4 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="resources/images/RentalCarLogo02.png" width="400"></a></p>
+<p align="center">
+    <a href="https://imgbox.com/Tajx4qrT" target="_blank"><img src="https://images2.imgbox.com/02/9f/Tajx4qrT_o.png" alt="image host"/></a>
+</p>
 
 
 ## Descrição
